@@ -62,6 +62,7 @@ ul {
   padding: 15px 30px;
   font-size: 20px;
   text-align: center;
+  text-decoration: none;
   white-space: nowrap; /* Impede quebra de linhas no texto */
   overflow: hidden; /* Esconde conteúdo excedente */
   text-overflow: ellipsis; /* Adiciona reticências se o texto ultrapassar */
@@ -86,6 +87,7 @@ ul {
   padding: 15px 30px;
   font-size: 20px;
   text-align: center;
+  text-decoration: none;
   white-space: nowrap; /* Impede quebra de linhas no texto */
   overflow: hidden; /* Esconde conteúdo excedente */
   text-overflow: ellipsis; /* Adiciona reticências se o texto ultrapassar */
@@ -110,6 +112,7 @@ ul {
   padding: 15px 30px;
   font-size: 20px;
   text-align: center;
+  text-decoration: none;
   white-space: nowrap; /* Impede quebra de linhas no texto */
   overflow: hidden; /* Esconde conteúdo excedente */
   text-overflow: ellipsis; /* Adiciona reticências se o texto ultrapassar */
